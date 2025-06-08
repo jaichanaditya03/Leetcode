@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jaichanaditya03/Leetcode/tree/master/0001-two-sum) |
 | [1791-richest-customer-wealth](https://github.com/jaichanaditya03/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jaichanaditya03/Leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jaichanaditya03/Leetcode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
