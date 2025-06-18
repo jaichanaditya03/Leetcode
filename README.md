@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jaichanaditya03/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jaichanaditya03/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/jaichanaditya03/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jaichanaditya03/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jaichanaditya03/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jaichanaditya03/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jaichanaditya03/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/jaichanaditya03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jaichanaditya03/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaichanaditya03/Leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jaichanaditya03/Leetcode/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaichanaditya03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jaichanaditya03/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
