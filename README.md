@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/jaichanaditya03/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jaichanaditya03/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaichanaditya03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jaichanaditya03/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jaichanaditya03/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jaichanaditya03/Leetcode/tree/master/0605-can-place-flowers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jaichanaditya03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jaichanaditya03/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaichanaditya03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaichanaditya03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
