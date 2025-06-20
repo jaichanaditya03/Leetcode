@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jaichanaditya03/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/jaichanaditya03/Leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaichanaditya03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaichanaditya03/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/jaichanaditya03/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaichanaditya03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jaichanaditya03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jaichanaditya03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaichanaditya03/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jaichanaditya03/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
