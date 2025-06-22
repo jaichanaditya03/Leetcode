@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/jaichanaditya03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jaichanaditya03/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/jaichanaditya03/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaichanaditya03/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaichanaditya03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jaichanaditya03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jaichanaditya03/Leetcode/tree/master/0412-fizz-buzz) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Bit Manipulation
 |  |
 | ------- |
