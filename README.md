@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jaichanaditya03/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jaichanaditya03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jaichanaditya03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/jaichanaditya03/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaichanaditya03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jaichanaditya03/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jaichanaditya03/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/jaichanaditya03/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaichanaditya03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
