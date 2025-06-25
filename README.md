@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jaichanaditya03/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jaichanaditya03/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jaichanaditya03/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaichanaditya03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-binary-search](https://github.com/jaichanaditya03/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jaichanaditya03/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jaichanaditya03/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
