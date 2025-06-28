@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jaichanaditya03/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jaichanaditya03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaichanaditya03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jaichanaditya03/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/jaichanaditya03/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2428-equal-row-and-column-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/jaichanaditya03/Leetcode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaichanaditya03/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/jaichanaditya03/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jaichanaditya03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/jaichanaditya03/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaichanaditya03/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaichanaditya03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jaichanaditya03/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
